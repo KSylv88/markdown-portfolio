@@ -1,3 +1,2 @@
-*1. Awesome
-**2. Funny
+I am *Awesome* and **Funny**
 
